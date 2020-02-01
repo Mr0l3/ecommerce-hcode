@@ -1,4 +1,4 @@
-# Projeto E-commerce
+# E-commerce Project
 
 Project developed from scratch during the [PHP 7 Course](https://www.udemy.com/curso-completo-de-php-7/) available in Udemy's platform or in the website [HTML5dev.com.br](https://www.html5dev.com.br/curso/curso-completo-de-php-7).
 
