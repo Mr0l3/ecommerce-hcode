@@ -1,0 +1,18 @@
+{
+    "name": "Mr0l3/ecommerce-hcode",
+    "authors": [
+        {
+            "name": "Henrique Dickel de Mello"
+        }
+    ],
+    "require": {
+    	"phpmailer/phpmailer":"5.2.22",
+    	"slim/slim":"2.0",
+    	"rain/raintpl":"3.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "vendor\\Mr0l3\\php-classes\\src"
+        }
+    }
+}
