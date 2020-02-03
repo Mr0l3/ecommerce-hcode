@@ -4,31 +4,32 @@ Project developed from scratch during the [PHP 7 Course](https://www.udemy.com/c
 
 Template used in the project [Almsaeed Studio](https://almsaeedstudio.com).
 
+All the frameworks that are necessary are included in the repository, so no need to install them.
 
 ## Prerequisites
-What you need to install:
+
 * XAMPP (For easier env setup);
 * MySql WorkBench [optional];
 * Composer - Dependencies Management;
-* PHPMailer v5.2.22 - Framework for emails;
-* Slim v2.0 - Routes framework;
-* RainTpl v3.0.0 - Templates framework.
+* PHPMailer v5.2.22 - Framework for emails (preinstalled);
+* Slim v2.0 - Routes framework (preinstalled);
+* RainTpl v3.0.0 - Templates framework (preinstalled).
+* HcodeBr DB - Database Management (preinstalled);
 ***
 
 ## Installing
 How to get a development env running:
 
-
 ### [Installing XAMPP](https://www.apachefriends.org/download.html)
 
 ### [Installing composer](https://getcomposer.org/download/)
 
-### Installing the frameworks
-To install the frameworks, change to the project directory where the composer.json file is located with:
+### Creating the composer.lock file
+To create the composer.lock file, change to the project directory where the composer.json file is located with:
 ```
 cd PATH_TO_YOUR_JSON_FILE
 ```
-Then install the frameworks:
+Then run:
 ```
 composer install
 ```
