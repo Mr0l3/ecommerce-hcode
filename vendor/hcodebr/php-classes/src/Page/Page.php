@@ -12,12 +12,12 @@ class Page{
     );
 
 
-    public function __construct($opts = array())
+    public function __construct(array $opts = array(), string $tpl_dir = "views/store/")
     {
         $this->options = array_merge($this->default, $opts);
 
         $config = array(
-            "tpl_dir"      => $_SERVER["DOCUMENT_ROOT"] . "views/",
+            "tpl_dir"      => $_SERVER["DOCUMENT_ROOT"] . $tpl_dir,
             "cache_dir"    => $_SERVER["DOCUMENT_ROOT"] . "views-cache/",
             "debug"        => false
         );
