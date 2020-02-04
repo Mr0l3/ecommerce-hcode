@@ -10,7 +10,8 @@
                             iure eaque ipsam iste, pariatur omnis sint! Suscipit, debitis, quisquam. Laborum commodi
                             veritatis magni at?</p>
                         <div class="footer-social">
-                            <a href="https://www.facebook.com/hcodebr" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <a href="https://www.facebook.com/hcodebr" target="_blank"><i
+                                    class="fa fa-facebook"></i></a>
                             <a href="https://twitter.com/hcodebr" target="_blank"><i class="fa fa-twitter"></i></a>
                             <a href="https://www.youtube.com/channel/UCjWENuSH2gX55-y7QSZiWxA" target="_blank"><i
                                     class="fa fa-youtube"></i></a>
@@ -57,7 +58,6 @@
             </div>
         </div>
     </div> <!-- End footer top area -->
-
     <div class="footer-bottom-area">
         <div class="container">
             <div class="row">
